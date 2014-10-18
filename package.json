@@ -1,0 +1,28 @@
+{
+  "name": "zetta-twitter-driver",
+  "version": "0.1.0",
+  "description": "Tweet from zetta",
+  "main": "index.js",
+  "dependencies": {
+    "twitter": "~0.2.12",
+    "zetta-device": "~0.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mdobson/zetta-twitter-driver.git"
+  },
+  "keywords": [
+    "twitter",
+    "zetta"
+  ],
+  "author": "Matthew Dobson <@mdobs>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mdobson/zetta-twitter-driver/issues"
+  },
+  "homepage": "https://github.com/mdobson/zetta-twitter-driver"
+}
