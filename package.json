@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "twitter": "~0.2.12",
-    "zetta-device": "~0.7.0"
+    "zetta-device": "~0.8.0"
   },
   "devDependencies": {},
   "scripts": {
